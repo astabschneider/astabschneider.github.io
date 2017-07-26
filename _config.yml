@@ -8,5 +8,8 @@ url: "http://astabschneider.de" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  astabschneider
 
+gems:
+  - jekyll-sitemap
+
 # Build settings
 markdown: kramdown
