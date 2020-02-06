@@ -1,0 +1,15 @@
+# Site settings
+title: Baumpfleger Georg Richter    
+email: astabschneider@e.mail.de
+description: > # this means to ignore newlines until "baseurl:"
+ Der Astabschneider - Baumpfleger Georg Richter. Ihr Ansprechpartner für professionelle Baumpflegearbeiten mit Seilklettertechnik im Raum Dresden und Neustadt/Sa.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://astabschneider.de" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  astabschneider
+
+gems:
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown

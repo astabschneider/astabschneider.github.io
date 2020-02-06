@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="description" content=" Der Astabschneider - Baumpfleger Georg Richter. Ihr Ansprechpartner für professionelle Baumpflegearbeiten mit Seilklettertechnik im Raum Dresden und Neustadt/Sa."> 
+<meta name="keywords" content="Baumpflege, Dresden, Neustadt, Sebnitz, Stolpen, Putzkau, Schmölln, Bischofswerda, Hohnstein, 01844, 01877, 01855">
+
+
+
+  <title>Git GUI - A graphical user interface for Git</title>
+  
+  <!-- Bootstrap Core CSS -->
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/small-business.css">
+  
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  
+  <link rel="canonical" href="http://localhost:4000/git/git-gui/">
+  <link rel="alternate" type="application/rss+xml" title="Baumpfleger Georg Richter" href="http://localhost:4000/feed.xml" />
+</head>
+
+
+  <body>
+
+    <!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+<div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="http://astabschneider.de/">
+        <img class="img-responsive img-rounded" src="tulip_transb.png" alt="" style="width:50px;height:50px;">
+        </a>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+            <h3> <b> Baumpfleger Georg Richter </h3>
+        </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+</div>
+<!-- /.container -->
+</nav>
+
+
+    <div class="container">
+    
+      <h1>Git GUI - A graphical user interface for Git</h1>
+
+<h1 id="git-gui---a-graphical-user-interface-for-git">Git GUI - A graphical user interface for Git</h1>
+
+<p>Git GUI allows you to use the <a href="https://git-scm.com/">Git source control management
+tools</a> via a GUI. This includes staging, committing,
+adding, pushing, etc. It can also be used as a blame viewer, a tree browser,
+and a citool (make exactly one commit before exiting and returning to shell).
+More details about Git GUI can be found in its manual page by either running
+<code class="language-plaintext highlighter-rouge">man git-gui</code>, or by visiting the <a href="https://git-scm.com/docs/git-gui">online manual
+page</a>.</p>
+
+<p>Git GUI was initially written by Shawn O. Pearce, and is distributed with the
+standard Git installation.</p>
+
+<h1 id="building-and-installing">Building and installing</h1>
+
+<p>You need to have the following dependencies installed before you begin:</p>
+
+<ul>
+  <li>Git</li>
+  <li>Tcl</li>
+  <li>Tk</li>
+  <li>wish</li>
+  <li>Gitk (needed for browsing history)</li>
+  <li>msgfmt</li>
+</ul>
+
+<p>Most of Git GUI is written in Tcl, so there is no compilation involved. Still,
+some things do need to be done (mostly some substitutions), so you do need to
+“build” it.</p>
+
+<p>You can build Git GUI using:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>make
+</code></pre></div></div>
+
+<p>And then install it using:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>make install
+</code></pre></div></div>
+
+<p>You probably need to have root/admin permissions to install.</p>
+
+<h1 id="contributing">Contributing</h1>
+
+<p>The project is currently maintained by Pratyush Yadav over at
+https://github.com/prati0100/git-gui. Even though the project is hosted at
+GitHub, the development does not happen over GitHub Issues and Pull Requests.
+Instead, an email based workflow is used. The Git mailing list
+<a href="mailto:git@vger.kernel.org">git@vger.kernel.org</a> is where the patches are
+discussed and reviewed.</p>
+
+<p>More information about the Git mailing list and instructions to subscribe can
+be found <a href="https://git.wiki.kernel.org/index.php/GitCommunity">here</a>.</p>
+
+<h2 id="sending-your-changes">Sending your changes</h2>
+
+<p>Since the development happens over email, you need to send in your commits in
+text format. Commits can be converted to emails via the two tools provided by
+Git: <code class="language-plaintext highlighter-rouge">git-send-email</code> and <code class="language-plaintext highlighter-rouge">git-format-patch</code>.</p>
+
+<p>You can use <code class="language-plaintext highlighter-rouge">git-format-patch</code> to generate patches in mbox format from your
+commits that can then be sent via email. Let’s say you are working on a branch
+called ‘foo’ that was created on top of ‘master’. You can run:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git format-patch -o output_dir master..foo
+</code></pre></div></div>
+
+<p>to convert all the extra commits in ‘foo’ into a set of patches saved in the
+folder <code class="language-plaintext highlighter-rouge">output_dir</code>.</p>
+
+<p>If you are sending multiple patches, it is recommended to include a cover
+letter. A cover letter is an email explaining in brief what the series is
+supposed to do. A cover letter template can be generated by passing
+<code class="language-plaintext highlighter-rouge">--cover-letter</code> to <code class="language-plaintext highlighter-rouge">git-format-patch</code>.</p>
+
+<p>After you send your patches, you might get a review suggesting some changes.
+Make those changes, and re-send your patch(es) in reply to the first patch of
+your initial version. Also please mention the version of the patch. This can be
+done by passing <code class="language-plaintext highlighter-rouge">-v X</code> to <code class="language-plaintext highlighter-rouge">git-format-patch</code>, where ‘X’ is the version number
+of the patch(es).</p>
+
+<h3 id="using-git-send-email">Using git-send-email</h3>
+
+<p>You can use <code class="language-plaintext highlighter-rouge">git-send-email</code> to send patches generated via <code class="language-plaintext highlighter-rouge">git-format-patch</code>.
+While you can directly send patches via <code class="language-plaintext highlighter-rouge">git-send-email</code>, it is recommended
+that you first use <code class="language-plaintext highlighter-rouge">git-format-patch</code> to generate the emails, audit them, and
+then send them via <code class="language-plaintext highlighter-rouge">git-send-email</code>.</p>
+
+<p>A pretty good guide to configuring and using <code class="language-plaintext highlighter-rouge">git-send-email</code> can be found
+<a href="https://www.freedesktop.org/wiki/Software/PulseAudio/HowToUseGitSendEmail/">here</a></p>
+
+<h3 id="using-your-email-client">Using your email client</h3>
+
+<p>If your email client supports sending mbox format emails, you can use
+<code class="language-plaintext highlighter-rouge">git-format-patch</code> to get an mbox file for each commit, and then send them. If
+there is more than one patch in the series, then all patches after the first
+patch (or the cover letter) need to be sent as replies to the first.
+<code class="language-plaintext highlighter-rouge">git-send-email</code> does this by default.</p>
+
+<h3 id="using-gitgitgadget">Using GitGitGadget</h3>
+
+<p>Since some people prefer a GitHub pull request based workflow, they can use
+<a href="https://gitgitgadget.github.io/">GitGitGadget</a> to send in patches. The tool
+was originally written for sending patches to the Git project, but it now also
+supports sending patches for git-gui.</p>
+
+<p>Instructions for using GitGitGadget to send git-gui patches, courtesy of
+Johannes Schindelin:</p>
+
+<p>If you don’t already have a fork of the <a href="https://github.com/git/git">git/git</a>
+repo, you need to make one. Then clone your fork:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/&lt;your-username&gt;/git
+</code></pre></div></div>
+
+<p>Then add GitGitGadget as a remote:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git remote add gitgitgadget https://github.com/gitgitgadget/git
+</code></pre></div></div>
+
+<p>Then fetch the git-gui branch:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git fetch gitgitgadget git-gui/master
+</code></pre></div></div>
+
+<p>Then create a new branch based on git-gui/master:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout -b &lt;your-branch-name&gt; git-gui/master
+</code></pre></div></div>
+
+<p>Make whatever commits you need to, push them to your fork, and then head over
+to https://github.com/gitgitgadget/git/pulls and open a Pull Request targeting
+git-gui/master.</p>
+
+<p>GitGitGadget will welcome you with a (hopefully) helpful message.</p>
+
+<h2 id="signing-off">Signing off</h2>
+
+<p>You need to sign off your commits before sending them to the list. You can do
+that by passing the <code class="language-plaintext highlighter-rouge">-s</code> option to <code class="language-plaintext highlighter-rouge">git-commit</code>. You can also use the “Sign
+Off” option in Git GUI.</p>
+
+<p>A sign-off is a simple ‘Signed-off-by: A U Thor &lt;author@example.com&gt;’ line at
+the end of the commit message, after your explanation of the commit.</p>
+
+<p>A sign-off means that you are legally allowed to send the code, and it serves
+as a certificate of origin. More information can be found at
+<a href="https://developercertificate.org/">developercertificate.org</a>.</p>
+
+<h2 id="responding-to-review-comments">Responding to review comments</h2>
+
+<p>It is quite likely your patches will get review comments. Those comments are
+sent on the Git mailing list as replies to your patch, and you will usually be
+Cc’ed in those replies.</p>
+
+<p>You are expected to respond by either explaining your code further to convince
+the reviewer what you are doing is correct, or acknowledge the comments and
+re-send the patches with those comments addressed.</p>
+
+<p>Some tips for those not familiar with communication on a mailing list:</p>
+
+<ul>
+  <li>Use only plain text emails. No HTML at all.</li>
+  <li>Wrap lines at around 75 characters.</li>
+  <li>Do not send attachments. If you do need to send some files, consider using a
+hosting service, and paste the link in your email.</li>
+  <li>Do not <a href="http://www.idallen.com/topposting.html">top post</a>.</li>
+  <li>Always “reply all”. Keep all correspondents and the list in Cc. If you reply
+directly to a reviewer, and not Cc the list, other people would not be able
+to chime in.</li>
+</ul>
+
+
+
+      <footer>
+    <div class="row">
+        <div class="col-lg-12">
+            <p>Copyright &copy; Baumpfleger Georg Richter 2020</p>
+        </div>
+    </div>
+</footer>
+
+
+    </div>
+    <!-- /.container -->
+    
+    <!-- Bootstrap core JavaScript
+    =============================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    </body>
+</html>
