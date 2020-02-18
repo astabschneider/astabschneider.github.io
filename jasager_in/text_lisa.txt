@@ -1,0 +1,46 @@
+<!-- #######  THIS IS A COMMENT - Visible only in the source editor #########--><!-- Heading Row -->
+<p>&nbsp;</p>
+<!--div class="row">
+<div class="col-md-5">
+    <img class="img-responsive img-rounded" src="tulip_text3.png" alt="" style="width:389;height:300px;">
+</div>
+<!-- /.col-md-8 -->
+<div class="col-md-7">
+<h1>&nbsp;</h1>
+<p>Hallo Freunde,</p>
+<p>ihr habt unsere Einladung erhalten und braucht jetzt weitere Infos. Dann seid ihr hier genau richtig. XXX gr&ouml;&szlig;er</p>
+</div>
+<div class="col-md-7">
+<h2>Wann und was?</h2>
+<p>Wir m&ouml;chten ein entspanntes, ausgelassenes, unvergessliches Wochenende mit euch verbringen. Dazu haben wir f&uuml;r uns alle von Freitag bis Sonntag eine gem&uuml;tliche Selbstversorgerh&uuml;tte reserviert. Zur Vor- und Nachbereitung werden wir schon von Freitag Vormittag bis Montag vor Ort sein und herumwuseln. Gern k&ouml;nnt Ihr euren Aufenthalt auch entsprechend verl&auml;ngern.</p>
+<p>Hier der grobe Plan f&uuml;r das Wochenende:</p>
+<ul>
+<li>Freitag: Anreisetag, sich einrichten, H&uuml;tte schm&uuml;cken, evtl. ein wenig klettern/wandern, gemeinsames Abendessen (Grillen), gem&uuml;tlicher Tagesausklang</li>
+<li>Samstag: sp&auml;teste Anreise bis 13 Uhr, 13:30 Uhr Aufbruch zum gemeinsamen Spaziergang, zeremonieller Teil der Hochzeit im Wald, Kaffee und Kuchen, evtl. Programmpunkte, Speis und Trank und Tanz inkl. Live-Musik</li>
+<li>Sonntag: gemeinsames Brunchen, kollektives Auskatern und Aufr&auml;umen, Abreisen</li>
+</ul>
+<h2>Wo?</h2>
+<p>Alle Infos zur Sauspdorfer H&uuml;tte im Nationalpark S&auml;chsische Schweiz findet ihr <a title="H&uuml;tte" href="https://saupsdorfer-huette.de/huette/">hier</a>.</p>
+<p>Wir haben die komplette H&uuml;tte vom 3. bis 5. Juli reserviert. Wer fr&uuml;her anreisen m&ouml;chte oder l&auml;nger bleiben m&ouml;chte kann entsprechend individuell je nach Verf&uuml;gbarkeit einen Schlafplatz <a href="https://saupsdorfer-huette.de/reservierung/">reservieren</a>. Wir werden wie gesagt auf jeden Fall bis Montag vor Ort sein.</p>
+<p>Direkt vor der H&uuml;tte kann leider nur zum Be- und Entladen geparkt werden, da wir die Freifl&auml;che f&uuml;r die Feier ben&ouml;tigen. Eure Autos parkt ihr am besten auf diesem <a href="https://www.google.com/maps/place/Helfrichs+Wiesen,+01855+Sebnitz/@50.9281772,14.3125484,17z/data=!4m15!1m9!3m8!1s0x0:0xf7d6ef81fcbafcd6!2sCamping+%22Thorwaldblick%22!5m2!4m1!1i2!8m2!3d50.922997!4d14.349874!3m4!1s0x470909d34bdd890d:0x9f0f48d6ffbc5180!8m2!3d50.92837!4d14.314749">Wanderparkplatz</a>, welcher in ca. 15 Minuten fussl&auml;ufig zu erreichen ist. Am besten ihr fahrt erst mal vor, r&auml;umt eure Sachen in Ruhe aus dem Auto und stellt es dann auf dem Parkplatz ab. Zwischen Parkplatz und H&uuml;tte wird es einen Shuttle geben, falls jemand nicht gut zu Fu&szlig; ist oder die 15 Minuten mit Kindern dann doch zu weit sind. </p>
+<p>Eine Anreise ist nat&uuml;rlich auch mit den &ouml;ffentlichen Verkehrsmitteln m&ouml;glich. Gern versuchen wir auch Mitfahrgelegenheiten zu vermitteln.</p>
+<h2>&Uuml;bernachtungsm&ouml;glichkeiten</h2>
+<ul>
+<li>In der H&uuml;tte: Wir w&uuml;rden uns freuen, wenn m&ouml;glichst viele von euch in der H&uuml;tte &uuml;bernachten. Es gibt insgesamt <strong>44</strong> &Uuml;bernachtungspl&auml;tze in Mehrbettzimmern (4-6 Schlafpl&auml;tze pro Zimmer). Bitte tragt euch hier XXX ein, damit wir einen &Uuml;berblick haben.</li>
+<li>Im Auto:&nbsp; auf dem besagten <a title="P" href="https://www.google.com/maps/place/Helfrichs+Wiesen,+01855+Sebnitz/@50.9281772,14.3125484,17z/data=!4m15!1m9!3m8!1s0x0:0xf7d6ef81fcbafcd6!2sCamping+%22Thorwaldblick%22!5m2!4m1!1i2!8m2!3d50.922997!4d14.349874!3m4!1s0x470909d34bdd890d:0x9f0f48d6ffbc5180!8m2!3d50.92837!4d14.314749">Waldparkplatz</a> k&ouml;nnt ihr ungest&ouml;rt in eurem Auto vor euch hinschnarchen</li>
+<li><a title="Camping" href="https://www.thorwaldblick.de/">Camping "Thorwaldblick"</a>: ca. 15 Minuten zu Fu&szlig;</li>
+<li>Diverse Unterk&uuml;nfte in Hinterhermsdorf, Saupsdorf, Ottendorf und Sebnitz</li>
+</ul>
+<h2>Was mitbringen?</h2>
+<p>Verbringt soviel Zeit wie m&ouml;glich mit uns. Das ist f&uuml;r uns das gr&ouml;&szlig;te Geschenk. Gern k&ouml;nnt ihr noch kulinarische Hightlights f&uuml;r das Abendbrot am Samstag und das Fr&uuml;hst&uuml;ck am Sonntag beitragen. Dazu wird es hier einige Wochen vorher noch eine Liste geben. Au&szlig;erdem wird es eine kleine Spendenbox f&uuml;r die Band geben. Bitte zerbrecht euch dar&uuml;ber hinaus nicht den Kopf &uuml;ber Geschenke. Ihr wisst, dass uns Nachhaltigkeit wichtiger ist als netter Klimbim, also bitte keine in Plastefolie eingewickelten Styroporherzen oder &Auml;hnliches mitbringen, auch wenn es gut gemeint ist.</p>
+<p>F&uuml;r Freitag und das Fr&uuml;hst&uuml;ck am Samstag sowie ab Sonntag nach dem ausgiebigen Brunch m&ouml;chten wir euch bitten, dass ihr selbst an Lebensmittel denkt. F&uuml;r ausreichend Brot und Br&ouml;tchen wird durch die nette Unterst&uuml;tzung von B&auml;ckerei Thomschke die ganze Zeit gesorgt sein. </p>
+<p>Falls Ihr sonst einen Beitrag zur Feier leisten m&ouml;chtet, freuen wir uns nat&uuml;rlich sehr. F&uuml;r den Einen oder Anderen haben wir auch schon eine Idee und werden euch dazu zeitnah kontaktieren. Also falls Ihr noch spannende Ideen oder W&uuml;nsche f&uuml;r das Wochenende habt, dann schreibt uns oder ruft uns an.</p>
+<p>Damit wir einen ersten &Uuml;berblick haben, tragt euch bitte zeitnah in dieses Dokument ein:</p>
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHT4i-A2oBkPHXrj1wlBWKqRxtuS13L5bk_mqfn0m5Y-4rD2DOwkt1qbv0czvHtSosOZcL1HjKbaC2/pubhtml">&Uuml;bersicht Sommerfest</a></p>
+<p>&nbsp;</p>
+<h2>Sonst noch etwas...?!</h2>
+<p>...dann fragt uns einfach und/oder checkt in regelm&auml;&szlig;igen Abst&auml;nden diese Seite.</p>
+<p>&nbsp;</p>
+<p><strong>Wir freuen uns auf euch!!!</strong></p>
+<p>&nbsp;</p>
+<p><strong>Georg, Lisa und Hanno</strong></p>

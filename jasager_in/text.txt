@@ -1,0 +1,48 @@
+<!-- #######  THIS IS A COMMENT - Visible only in the source editor #########--><!-- Heading Row -->
+<p>&nbsp;</p>
+<!--div class="row">
+<div class="col-md-5">
+    <img class="img-responsive img-rounded" src="tulip_text3.png" alt="" style="width:389;height:300px;">
+</div>
+<!-- /.col-md-8 -->
+<div class="col-md-7">
+<h1>Wir freuen uns auf euch!</h1>
+<p>Ihr habt unsere Einladung erhalten und braucht jetzt weitere Infos. Dann seit ihr hier genau richtig.</p>
+</div>
+<div class="col-md-7"><br /><strong>Georg, Lisa und Hanno</strong>
+<h2>Unsere Idee</h2>
+<p>Wir m&ouml;chten mit euch ein intensive, ausgelassene und entspannte Zeit mit euch verbringen. Dazu haben wir f&uuml;r uns alle eine gem&uuml;tliche Selbstversorgerh&uuml;tte von Freitagnachmittag bis Sonntag reserviert. F&uuml;r Vor- und Nachbereitung werden wir schon von Freitagvormittag bis Montag in und um der H&uuml;tte sein. Gern k&ouml;nnt Ihr euren Aufenthalt auch entsprechend verl&auml;ngern.</p>
+<p>Hier der grobe Plan f&uuml;r das Wochenende</p>
+<ul>
+<li>Freitag: Anreisetag, evtl ein wenig klettern gehen, H&uuml;tte schm&uuml;cken,&nbsp; gemeinsames Abendessen (Grillen), gem&uuml;tlicher Tagesausklang</li>
+<li>Samstag: wir bekennen uns zu unsere Liebe mit einer Hochzeit im Wald. Wir treffen uns gegen 13.30uhr an der H&uuml;tte. Anschlie&szlig;end gibt es Kaffee und Kuchen. Nat&uuml;rlich werde wir auch f&uuml;r f&uuml;r Speis und Trank f&uuml;r den Abend sorgen. Au&szlig;erdem organsieren wir gerade eine Band, damit wir alle Tanzen k&ouml;nnen.</li>
+<li>Sonntag: Abreisetag, Aufwachen, wir organisieren f&uuml;r euch ein leckeres Fr&uuml;hst&uuml;ck, Aufr&auml;umen, miteinander Zeit verbringen.</li>
+</ul>
+<h2>Die H&uuml;tte</h2>
+<p>Wir m&ouml;chten mit euch auf der Sauspdorfer H&uuml;tte im Nationalpark S&auml;chsische Schweiz feiern. Alle Infos findet ihr <a title="H&uuml;tte" href="https://saupsdorfer-huette.de/huette/">hier</a>.</p>
+<p>Wir haben die komplette H&uuml;tte vom 3. bis 5. Juli f&uuml;r unsere Feier reserviert. Wer fr&uuml;her anreisen m&ouml;chte oder l&auml;nger bleiben m&ouml;chte kann entsprechend indivudell einen Schlafplatz <a href="https://saupsdorfer-huette.de/reservierung/">reservieren</a>. Wir werden auf jeden Fall bis Montag in der H&uuml;tte bleiben.</p>
+<p>Direkt vor der H&uuml;tte kann nur zum Be- und Entladen geparkt werden, da wir die Freifl&auml;che vor der H&uuml;tte f&uuml;r unsere Feier nutzen m&ouml;chten. Geparkt werden kann aber auf einen <a href="https://www.google.com/maps/place/Helfrichs+Wiesen,+01855+Sebnitz/@50.9281772,14.3125484,17z/data=!4m15!1m9!3m8!1s0x0:0xf7d6ef81fcbafcd6!2sCamping+%22Thorwaldblick%22!5m2!4m1!1i2!8m2!3d50.922997!4d14.349874!3m4!1s0x470909d34bdd890d:0x9f0f48d6ffbc5180!8m2!3d50.92837!4d14.314749">Wanderparkplatz</a>, welcher in ca. 15 min fussl&auml;ufig zu erreichen ist. Am besten ihr fahrt zur H&uuml;tte, r&auml;umt eure Sachen aus dem Auto und fahrt dann das Auto zum Parkplatz. Vom Parkplatz k&ouml;nnen wir euch dann auch wieder mit dem Auto abholen und zur H&uuml;tte zur&uuml;ck bringen.</p>
+<p>Eine Anreise ist nat&uuml;rlich auch mit den &ouml;ffentlichen Verkehrsmitteln m&ouml;glich. Fragt uns einfach, falls ihr dazu Informationen braucht.</p>
+<h2>&Uuml;bernachtungsm&ouml;glichkeiten</h2>
+<ul>
+<li>In der H&uuml;tte: Wir w&uuml;rden uns freuen, wenn m&ouml;glichst viele in der H&uuml;tte schlafen. Es gibt insgesamt <strong>44</strong> &Uuml;bernachtungspl&auml;tze, welche in Mehrbettzimmern eingerichtet sind. (4-6 Schlafpl&auml;tze pro Zimmer)</li>
+<li>Im Auto: ca. 15min zu Fuss befindet sich ein <a title="P" href="https://www.google.com/maps/place/Helfrichs+Wiesen,+01855+Sebnitz/@50.9281772,14.3125484,17z/data=!4m15!1m9!3m8!1s0x0:0xf7d6ef81fcbafcd6!2sCamping+%22Thorwaldblick%22!5m2!4m1!1i2!8m2!3d50.922997!4d14.349874!3m4!1s0x470909d34bdd890d:0x9f0f48d6ffbc5180!8m2!3d50.92837!4d14.314749">Waldparkplatz</a>, wo ihr ungest&ouml;rt in eurem Camper pennen k&ouml;nnt</li>
+<li><a title="Camping" href="https://www.thorwaldblick.de/">Camping "Thorwaldblick"</a>: ca. 15min zu Fuss</li>
+<li>Diverse Unterk&uuml;nfte in Hinterhermsdorf, Saupsdorf, Ottendorf und Sebnitz</li>
+</ul>
+<h2>Was k&ouml;nnt ihr machen</h2>
+<p>Verbringt soviel Zeit wie m&ouml;glich mit uns. Das ist f&uuml;r uns das gr&ouml;&szlig;te Geschenk. Gern k&ouml;nnt ihr noch kulinarische Hightlights f&uuml;r das Abendbrot am Samstag und das Fr&uuml;hst&uuml;ck am Sonntag beitragen. Dazu wird es hier bald ein entsprechendes Dokument geben.</p>
+<p>F&uuml;r Freitag und das Fr&uuml;hst&uuml;ck am Samstag, sowie ab Sonntag nach dem ausgiebigen Fr&uuml;hst&uuml;ck m&ouml;chten wir euch bitten, dass ihr euch selbst versorgt. Am sch&ouml;nsten w&auml;re es, dass jeder etwas feines mitbringt und wir alle zusammen essen. Auch dazu werden wir noch zeitnah ein Dokument&nbsp; f&uuml;r die Planung erstellen.</p>
+<p>Falls Ihr sonst einen Beitrag zur Feier leisten m&ouml;chtet, freuen wir uns nat&uuml;rlich sehr. F&uuml;r den Einen oder Anderen haben wir auch schon eine Idee und werden euch dazu zeitnah kontaktieren. Also falls Ihr noch spannende Ideen oder W&uuml;nsche f&uuml;r das Wochenende habt, dann schreibt uns oder ruft uns an.</p>
+<p>Damit wir einen ersten &Uuml;berblick haben, tragt euch bitte zeitnah in dieses Dokument ein:</p>
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHT4i-A2oBkPHXrj1wlBWKqRxtuS13L5bk_mqfn0m5Y-4rD2DOwkt1qbv0czvHtSosOZcL1HjKbaC2/pubhtml">&Uuml;bersicht Sommerfest</a></p>
+<p>&nbsp;</p>
+<h2>Sonst noch etwas...?!</h2>
+<p>...dann fragt uns einfach und/oder checkt in regelm&auml;&szlig;igen Abst&auml;nden diese Seite.</p>
+<p>Hier nochmal unsere Kontaktdaten:</p>
+<p>Lisa<br />015777708772<br />lisa_stapper@gmx.net</p>
+<p>Georg<br />017697516472<br />georg.richter@zoho.com</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
